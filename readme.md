@@ -25,8 +25,8 @@ Node.js + MongoDB JWT authentication system.
 ## Setup
 
 ```bash
-git clone <repo-url>
-cd jwt-auth
+git clone git@github.com:suman7802/JWT-AUTH.git
+cd JWT-AUTH
 npm install
 ```
 
